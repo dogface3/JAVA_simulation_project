@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b61ae1d5-699f-470e-8414-c412ad37ee01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_simulation_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät_1/1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät_1/2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät_1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät_1/CustomerGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät_1/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät_1/ServicePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät_1/SinglePointOfService.java" afterDir="false" />
+    <list default="true" id="b61ae1d5-699f-470e-8414-c412ad37ee01" name="Changes" comment="all done">
+      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät2/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät2/EventList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät2/EventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät2/Taskone.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2eYtZWLZISfhgz3gkULMmCGx204" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,7 +41,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Application.Queue.executor": "Run",
+    "Application.ServicePointTest.executor": "Run",
     "Application.SinglePointOfService.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,7 +58,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ServicePointTest">
+  <component name="RunManager">
     <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="orientaatiotehtävät_1.Queue" />
       <module name="JAVA_simulation_project" />
@@ -126,11 +121,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712093399581</updated>
-      <workItem from="1712093400579" duration="1459000" />
+      <workItem from="1712093400579" duration="1855000" />
+      <workItem from="1712138085117" duration="8000" />
+      <workItem from="1712676006309" duration="3292000" />
     </task>
+    <task id="LOCAL−00001" summary="all done">
+      <option name="closed" value="true" />
+      <created>1712095182057</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1712095182059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all done" />
+    <option name="LAST_COMMIT_MESSAGE" value="all done" />
   </component>
 </project>
