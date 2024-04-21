@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b61ae1d5-699f-470e-8414-c412ad37ee01" name="Changes" comment="all done">
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät2/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät2/EventList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät2/EventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät2/Taskone.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät4/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät4/2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät4/4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientaatiotehtävät4/5.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,26 +38,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Queue.executor": "Run",
-    "Application.ServicePointTest.executor": "Run",
-    "Application.SinglePointOfService.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Samue/JAVA_simulation_project/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Queue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ServicePointTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SinglePointOfService.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Samue/JAVA_simulation_project/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samue\JAVA_simulation_project\src\orientaatiotehtävät4\t3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Queue">
     <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="orientaatiotehtävät_1.Queue" />
       <module name="JAVA_simulation_project" />
@@ -123,7 +127,9 @@
       <updated>1712093399581</updated>
       <workItem from="1712093400579" duration="1855000" />
       <workItem from="1712138085117" duration="8000" />
-      <workItem from="1712676006309" duration="3292000" />
+      <workItem from="1712676006309" duration="3826000" />
+      <workItem from="1713112331818" duration="170000" />
+      <workItem from="1713721431565" duration="1640000" />
     </task>
     <task id="LOCAL−00001" summary="all done">
       <option name="closed" value="true" />
@@ -132,7 +138,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1712095182059</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="all done">
+      <option name="closed" value="true" />
+      <created>1712679635175</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1712679635175</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
